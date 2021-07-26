@@ -10,13 +10,6 @@
 - :dart:  Всегда готов к сотрудничеству и участию в интересных проектах
 - :zap: Люблю програмирование и все что с ним связанно
 
-<a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=xirurgx3d&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
-</a>
-
-
-<br>
-<br>
 
 <h2 align="left" id="macropower-tech">Мои навыки:</h2>
 
