@@ -16,16 +16,17 @@
 
 
 <br>
+<br>
 
 <h2 align="left" id="macropower-tech">Мои навыки:</h2>
 
-> Инструменты, языки и другие вещи, с которыми мне нравится работать. 
+> Инструменты, языки и другие вещи, которые я использую в работе
 
 <br>
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://cdn.auth0.com/blog/logos/nextjs-logo.png" width="48" height="48" alt="next" />
       </a>
@@ -36,6 +37,18 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/redux.png" width="48" height="48" alt="php" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://brandslogos.com/wp-content/uploads/images/mobx-logo-vector.svg" width="48" height="48" alt="php" />
+      </a>
+      <br>Mobx
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -101,43 +114,31 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://www.joykal.com/wp-content/uploads/2019/09/codeigniter-icon-512.png" width="48" height="48" alt="php" />
       </a>
-      <br>RHEL
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
+      <br>codeigniter
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/5/51/1c_bitrix_logo.svg/1024px-1c_bitrix_logo.svg.png" width="48" height="48" alt="php" />
       </a>
-      <br>MySQL
+      <br>bitrix
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/jest-3521517-2945020.png" width="48" height="48" alt="php" />
       </a>
-      <br>Grafana
+      <br>jest
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
-      </a>
-      <br>Prometheus
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
-      </a>
-      <br>Thanos
-    </td>
+    
+    
   </tr>
 </table>
 
-- На данный момент я стараюсь писать исключительно на typescript, развиваюсь в этом направлении стремясь к no any
+
+
+
+
+
 
 
