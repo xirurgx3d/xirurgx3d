@@ -107,12 +107,6 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://www.joykal.com/wp-content/uploads/2019/09/codeigniter-icon-512.png" width="48" height="48" alt="php" />
-      </a>
-      <br>codeigniter
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/5/51/1c_bitrix_logo.svg/1024px-1c_bitrix_logo.svg.png" width="48" height="48" alt="php" />
       </a>
       <br>bitrix
